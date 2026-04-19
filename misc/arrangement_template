@@ -1,0 +1,41 @@
+// Arrangement Template
+
+setcpm(80/4)
+
+const cons1 = silence
+
+const cons2 = silence
+
+const cons3 = silence
+
+const cons4 = silence
+
+const cons5 = silence
+
+const cons6 = silence
+
+const cons7 = silence
+
+const cons8 = silence
+
+const cons9 = silence
+
+const cons10 = silence
+
+const cons11 = silence
+
+const cons12 = silence
+
+arrange(
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)],
+  [4, stack(cons1, cons2, cons3, cons4, cons5, cons6, cons7, cons8, cons9, cons10, cons11, cons12)]
+  )
